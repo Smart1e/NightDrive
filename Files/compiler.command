@@ -1,0 +1,1 @@
+echo "hhhh" | sudo -S pyinstaller --noconfirm --onefile --name "Drive2Base" --clean --osx-bundle-identifier "com.remacs.prosuite.Drive2Base" --distpath "Documents/HDDPusher/Compiled" "Documents/HDDPusher/main.py"
